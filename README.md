@@ -14,8 +14,7 @@ Open up and create the data base using mysql workbench
 Run server.js
 
 ## Technologies used
-
-Bcrypt.js, connect-session-sequelize, dotenv, express, express-handlebars, express-session, jest, mmysql2,  sequelize.
+Nodemon, express, mongoose, morgan
 
 
 
@@ -25,7 +24,7 @@ Bcrypt.js, connect-session-sequelize, dotenv, express, express-handlebars, expre
 
 
 ## Usage
-Tech blog website where you can post delete comment and create an user log in.
+Fitness tracker to log create new workouts on an cool app!
 
 
 
