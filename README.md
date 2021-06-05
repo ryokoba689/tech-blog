@@ -14,7 +14,7 @@ Open up and create the data base using mysql workbench
 Run server.js
 
 ## Technologies used
-Nodemon, express, mongoose, morgan
+
 
 
 
